@@ -4,7 +4,7 @@ An 16-bit integer can hold values upto 2^15-1, thus any operation resulting in a
 
 This is done with the help of character arrays, since character arrays don't have a limit to how many characters they can hold(unless the stack size exceeds 1MB). 
 
-_ It can handle negative numbers and decimal points as well._
+*It can handle negative numbers and decimal points as well.*
 
 To execute the commands-
 
